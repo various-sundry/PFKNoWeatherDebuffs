@@ -1,4 +1,4 @@
-# No Weather
+# No Weather Debuffs
 
 This mod prevents inclement weather from causing debuffs.
 
