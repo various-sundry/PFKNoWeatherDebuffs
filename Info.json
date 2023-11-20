@@ -1,0 +1,12 @@
+{
+  "Id": "NoWeatherDebuffs",
+  "DisplayName": "No Weather Debuffs",
+  "Author": "various-sundry",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.27.8",
+  "Requirements": [],
+  "AssemblyName": "NoWeatherDebuffs.dll",
+  "EntryMethod": "NoWeatherDebuffs.Main.Load",
+  "HomePage": "https://www.nexusmods.com/pathfinderkingmaker/mods/298",
+  "Repository": "https://raw.githubusercontent.com/various-sundry/PFKNoWeatherDebuffs/master/Repository.json"
+}
